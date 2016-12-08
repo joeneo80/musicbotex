@@ -1,5 +1,6 @@
 # MusicBotEX
-An extension for {https://github.com/Just-Some-Bots/MusicBot}
+An extension for {https://github.com/Just-Some-Bots/MusicBot} by Joe Walford <[joeneo800@gmail.com]{mailto:joeneo800@gmail.com}>
+If you have questions, email me there.
 
 ## What does it do?
 
@@ -17,4 +18,4 @@ And much more.
 
 ## How do I use it?
 
-I hate writing READMEs
+
