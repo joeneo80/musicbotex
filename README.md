@@ -5,6 +5,8 @@ If you have questions, email me there.
 
 ## Download
 
+{https://github.com/joeneo80/musicbotex/raw/master/musicbotEXwin.zip}
+
 ## What does it do?
 
 MusicBotEX does a number of things to extent MusicBot's functionality.
