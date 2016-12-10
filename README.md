@@ -1,3 +1,5 @@
+#PRANKED
+
 # MusicBotEX
 An extension for {https://github.com/Just-Some-Bots/MusicBot} by Joe Walford < joeneo800@gmail.com >
 
